@@ -36,6 +36,7 @@ public class PigLatin {
 ### Shape Tester
 
   A Basic Java app by entering certain parameters, can give the values of Volume and Surface Area of a specified Shape
+  
   ![Box](https://github.com/Wheaties0/ShapeTester/raw/master/Box.png)
   
   ![Sphere](https://github.com/Wheaties0/ShapeTester/raw/master/Sphere.png)
@@ -46,6 +47,9 @@ public class PigLatin {
   ---
 
 ### Calculator
+	
+	A Java application, presenting a simple operational calculator
+	![Calculator App](https://github.com/Wheaties0/Calculator/raw/master/Calculator.png)
   
 ### Numbers
   
