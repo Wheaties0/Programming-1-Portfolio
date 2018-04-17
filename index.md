@@ -6,6 +6,10 @@
 
   Our Group Project of the year, a simple game involving avoidance of an enemy ship and its lasers.
   
+  <img width="993" alt="spaceship game" src="https://user-images.githubusercontent.com/26355832/38640418-71fee262-3d91-11e8-979f-ec8e61fca1e3.png">
+  
+  [SpaceShip Game](https://github.com/godofdeathftw/Spaceship-Shooter)
+  
 ### PigLatin
 
   Basic Java code to translate English Text into PigLatin
@@ -91,7 +95,7 @@ public class Numbers {
   
 ### Screensaver
 
-A Copy of the classic Windows XP screensaver, developed in Java
+A Copy of the classic Windows XP screensaver in 2 dimensions, developed in Java
 
 ![Calculator App](https://github.com/Wheaties0/ScreenSaver/raw/master/ScreenSaver.png)
 
