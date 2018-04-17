@@ -55,4 +55,46 @@ A Java application, presenting a simple operational calculator
   
 ### Numbers
   
+  A java application with an integrated random number generator. The user inputs values to guess the random value
+  
+  ```
+import java.util.*;
+public class Numbers {
+	public static void main(String[] args) {
+		int user = 0;
+		int counter = 0;
+		Scanner scanner = new Scanner(System.in);
+		//Random Class
+		int random = (int )(Math.random()*101);
+		//Println
+		System.out.println("Welcome to the Guessing Game! Guess a Number between 1 and 100:");
+
+			while (user != random){
+				user = scanner.nextInt();
+				counter ++;
+				if(user < random) {
+					System.out.println("Number is too low:");
+
+			} else if (user > random) {
+				System.out.println("Number is too High:");
+			} else {
+				System.out.println("Great! You guessed correctly in "+ counter +" times");
+			}
+
+		}
+
+	}
+
+}
+  ```
+  
+  
 ### Screensaver
+
+A Copy of the classic Windows XP screensaver, developed in Java
+
+![Calculator App](https://github.com/Wheaties0/ScreenSaver/raw/master/ScreenSaver.png)
+
+[Source Code](https://github.com/Wheaties0/ScreenSaver/tree/master/src)
+
+
