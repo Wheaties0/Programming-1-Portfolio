@@ -51,7 +51,7 @@ A Java application, presenting a simple operational calculator
 
 ![Calculator App](https://github.com/Wheaties0/Calculator/raw/master/Calculator.png)
 
-[Source Code](https://github.com/Wheaties0/Calculator/blob/master/Calculator.png)
+[Source Code](https://github.com/Wheaties0/Calculator/tree/master/src)
   
 ### Numbers
   
